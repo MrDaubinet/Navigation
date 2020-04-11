@@ -68,6 +68,6 @@ pip install .
 
 ### Running the Code
 
-1. Clone this repo and copy the content of this repo into the `p1_navigation/` project.
-- Run Main.py to train the agent.
-- Run Test.py to test the trained agent saved as checkpoint.pth
+Clone this repo and copy the content of this repo into the `p1_navigation/` project.
+1. Run Main.py to train the agent.
+2. Run Test.py to test the trained agent saved as checkpoint.pth
